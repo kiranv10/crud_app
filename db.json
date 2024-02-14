@@ -1,0 +1,24 @@
+{
+    "students": [
+        {
+            "id":"1",
+            "stuname":"kiran",
+            "email" : "kiran@gmail.com"
+        },
+        {
+            "id":"2",
+            "stuname":"pandurang",
+            "email" : "pandurang@gmail.com"
+        },
+        {
+            "id":"3",
+            "stuname":"pradeep",
+            "email" : "pradeep@gmail.com"
+        },
+        {
+            "id":"4",
+            "stuname":"nikhil",
+            "email" : "nikhil@gmail.com"
+        }
+    ]
+}
